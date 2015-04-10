@@ -44,3 +44,4 @@ group :development, :test do
 end
 
 gem 'twitter-bootstrap-rails', '~> 3.2.0'
+gem 'font-awesome-rails', '~> 4.3.0.0'
